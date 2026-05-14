@@ -4,11 +4,32 @@
 
 - EX-01 Fundamentals of Generative AI and LLMs
 - EX-02 Cross Platform Prompting
+- EX-03 Prompt Engineering Techniques with Examples
+- EX-04 Scenario-Based Report Development using Prompting Techniques
+- EX-05 Comparative Analysis of Prompting Techniques
 
 ## Submission Rule
 
-Each student must create separate repository:
+Each learner must create separate repository:
 
 RollNo_Name_19TD608
 
-Upload PDF, screenshots, outputs.
+Example:
+
+2122250406102_Sriram_19TD608
+
+## Submission Format
+
+Upload the following inside respective experiment folders:
+
+- PDF Report
+- Screenshots
+- Prompt Outputs
+
+## Important Rules
+
+- Maintain separate folders for each experiment.
+- File names should follow proper naming convention.
+- PDF reports must contain Aim, Algorithm, Output, and Result.
+- Upload all files before due date.
+- Submit GitHub repository link in LMS.
