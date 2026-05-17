@@ -8,6 +8,12 @@
 - EX-04 Scenario-Based Report Development using Prompting Techniques
 - EX-05 Comparative Analysis of Prompting Techniques
 - EX-06 Development of Python Code Compatible with Multiple AI Tools
+- EX-07 Development of a Prompt-Based Application using LLMs
+- EX-08 Reproducing an Image Using Prompts for Image Generation
+- EX-09 Exploration of Prompting Techniques for Video Generation
+- EX-10 Content Creation Using Prompt Patterns
+
+---
 
 ## Submission Rule
 
@@ -19,6 +25,8 @@ Example:
 
 2122250406102_Sriram_19TD608
 
+---
+
 ## Submission Format
 
 Upload the following inside respective experiment folders:
@@ -26,13 +34,39 @@ Upload the following inside respective experiment folders:
 - PDF Report
 - Screenshots
 - Prompt Outputs
-- AI-generated Outputs (where applicable)
+- AI-generated Outputs
+- Comparative Analysis (where applicable)
+
+---
 
 ## Important Rules
 
 - Maintain separate folders for each experiment.
 - File names should follow proper naming convention.
-- PDF reports must contain Aim, Algorithm, Output, and Result.
-- Use proper GitHub commit and upload procedures.
+- PDF reports must contain:
+  - Aim
+  - Algorithm
+  - Output
+  - Result
+- Use proper GitHub upload and commit procedure.
 - Upload all files before due date.
 - Submit GitHub repository link in LMS.
+- Include screenshots of prompts and generated outputs.
+- Use minimum two AI tools wherever comparison is required.
+
+---
+
+## Folder Structure Example
+
+EX-01/
+├── 2122250406102_Sriram_EX1.pdf
+├── screenshots/
+├── prompt_outputs/
+
+EX-02/
+├── 2122250406102_Sriram_EX2.pdf
+
+...
+
+EX-10/
+├── 2122250406102_Sriram_EX10.pdf
